@@ -1,0 +1,10 @@
+Package: com.yourepo.rio.respawnablescheats
+Name: Respawnables Cheats
+Version: 7.4.0
+Architecture: iphoneos-arm
+Description: Respawnables iGMM Cheats by ZahirSher & DiDA
+Author: ZahirSher & DiDA <mr.kheang@icloud.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: RioZ <mr.kheang@icloud.com>
+
