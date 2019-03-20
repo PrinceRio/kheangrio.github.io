@@ -1,0 +1,14 @@
+Package: com.kheangrio.github.io.realcc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: KheangRio
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: RealCC 1.0.1.deb
+Size: 3712
+MD5sum: 089F4DEDB54C52F1E6F1EF2D7E25100D
+SHA1: C6248B022C51D7D2AD208467B5AC155571C23A54
+SHA256: BB20242CBAE40177002E9B74276001D136C17C00ED47B2A989DA05077B393161
+Section: Tweaks
+Description: Actually disable Wi-Fi from the iOS 11/12 CC
+Author: Jake James <jakeashacks@gmail.com>
+Name: RealCC
